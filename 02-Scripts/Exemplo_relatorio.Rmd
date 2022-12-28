@@ -6,7 +6,7 @@ output: html_document
 ---
 
 
-# eduardo Exemplo
+# Eduardo Müller Gruhn Exemplo
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
